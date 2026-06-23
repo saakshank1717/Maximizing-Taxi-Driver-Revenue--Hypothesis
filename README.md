@@ -140,6 +140,4 @@ scikit-learn
 
 ---
 
-## 📝 License
 
-MIT License
